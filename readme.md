@@ -1,3 +1,2 @@
 
-// live demo
-<button> https://agrirental.netlify.app/</button>
+[Live Demo](https://agrirental.netlify.app/)
